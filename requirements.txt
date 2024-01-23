@@ -1,1 +1,6 @@
-Flask==3.0.0
+flask
+easyocr
+keras-ocr
+pillow
+opencv-python
+numpy
