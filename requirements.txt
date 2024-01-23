@@ -4,3 +4,4 @@ keras-ocr
 pillow
 opencv-python
 numpy
+tensorflow
